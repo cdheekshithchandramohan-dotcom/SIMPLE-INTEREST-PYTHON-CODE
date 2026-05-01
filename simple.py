@@ -6,5 +6,4 @@ p=int(input("amount:"))
 r=int(input("rate:"))
 t=int(input("time:"))
 SI=(p*r*t)/100
-print(SI)
-print("\n The interest is:")
+print("\n The interest is:",SI)
